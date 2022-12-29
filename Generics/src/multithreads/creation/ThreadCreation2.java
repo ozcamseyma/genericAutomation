@@ -1,4 +1,6 @@
-package multithreads;
+package multithreads.creation;
+
+import multithreads.creation.Counter;
 
 public class ThreadCreation2 {
 

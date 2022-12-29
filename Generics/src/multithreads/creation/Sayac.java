@@ -1,4 +1,4 @@
-package multithreads;
+package multithreads.creation;
 
 public class Sayac extends Thread{
 

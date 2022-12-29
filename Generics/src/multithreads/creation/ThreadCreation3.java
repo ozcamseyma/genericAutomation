@@ -1,4 +1,4 @@
-package multithreads;
+package multithreads.creation;
 
 public class ThreadCreation3 {
     public static void main(String[] args) {

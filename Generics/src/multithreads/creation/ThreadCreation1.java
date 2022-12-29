@@ -1,4 +1,4 @@
-package multithreads;
+package multithreads.creation;
 
 
 /*
@@ -26,6 +26,8 @@ package multithreads;
 
 
 */
+
+import multithreads.creation.Sayac;
 
 public class ThreadCreation1 {
 
